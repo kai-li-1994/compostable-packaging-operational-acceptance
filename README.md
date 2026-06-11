@@ -4,6 +4,11 @@ This repository contains the archived evidence corpus, Python coding workflow, f
 
 **Certified but not accepted: operational limits to compostable packaging in organic-waste systems**
 
+**Release and archive**
+
+- GitHub repository: https://github.com/kai-li-1994/compostable-packaging-operational-acceptance
+- Zenodo archive: https://doi.org/10.5281/zenodo.20650603
+
 The study examines whether compostable packaging that is marketed or certified as compostable is actually accepted by organic-waste collection and treatment systems. The workflow converts a corpus of public operational sources into source-level coding outputs, source × application-group records, certification-sufficiency outputs, figure files, and a reader-facing Supplementary Data workbook.
 
 ## Authors and project context
@@ -171,28 +176,26 @@ The derived coding outputs, Supplementary Data workbook, and Python scripts are 
 
 ## License
 
-Recommended licensing structure:
+The Python code in this repository is released under the MIT License, provided in `LICENSE`.
 
-- **Code**: MIT License, provided in `LICENSE`.
-- **Derived data and workbook**: recommended release under CC BY 4.0, if acceptable for the final repository/Zenodo record.
-- **Archived third-party sources in `web_sources.zip`**: not relicensed by this repository. They are provided as an archived evidence corpus for reproducibility and remain subject to the rights and terms of the original publishers.
+The derived coding outputs and `Supplementary_Data.xlsx` are shared to support transparency, verification, and reuse of the analysis. The archived public source files in `web_sources.zip` are not relicensed by this repository. They are copies of public third-party webpages and PDFs retained as an evidence corpus for verification and reproducibility, and rights in those source materials remain with their original publishers.
 
 ## Citation
 
-If you use this repository, please cite the associated manuscript and the Zenodo archive.
+If you use this repository or the archived release, please cite the GitHub repository and the Zenodo archive.
 
 ```text
-Li, K., & Walther, G. (2026). Certified but not accepted: operational limits to compostable packaging in organic-waste systems. [Manuscript under review / journal details to be added].
+Li, K., & Walther, G. (2026). Certified but not accepted: operational limits to compostable packaging in organic-waste systems: reproducible data and code archive (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20650603
 ```
 
-Zenodo DOI: `[DOI to be added]`  
-GitHub repository: `[URL to be added]`
+Zenodo archive: https://doi.org/10.5281/zenodo.20650603  
+GitHub repository: https://github.com/kai-li-1994/compostable-packaging-operational-acceptance
 
 ## Acknowledgements
 
 This repository supports research conducted at the Chair of Operations Management, RWTH Aachen University, with affiliation to the Institute of Environmental Sciences (CML), Leiden University. The authors thank the public authorities, waste operators, treatment facilities, and regional or national organisations whose publicly available operational guidance made the evidence corpus possible.
 
-Funding/project acknowledgement: `This research was supported by the Werner Siemens Foundation through the WSS Research Centre Catalaix, a Project of the Century funded by the Werner Siemens Foundation.`
+This research was supported by the Werner Siemens Foundation through the WSS Research Centre Catalaix, a Project of the Century funded by the Werner Siemens Foundation.
 
 ## Contact
 

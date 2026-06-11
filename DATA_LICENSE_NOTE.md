@@ -1,9 +1,10 @@
 # Data and source-archive licensing note
 
-The recommended repository licensing structure is:
+The Python code in this repository is released under the MIT License, provided in `LICENSE`.
 
-- Python code: MIT License, provided in `LICENSE`.
-- Derived coding outputs and `Supplementary_Data.xlsx`: recommended release under CC BY 4.0, if acceptable for the final GitHub and Zenodo release.
-- Archived public source files in `web_sources.zip`: not relicensed by this repository. These files are retained as an archived evidence corpus for verification and reproducibility. Rights in the original webpages and PDFs remain with the original publishers.
+The derived coding outputs and `Supplementary_Data.xlsx` are shared to support transparency, verification, and reuse of the analysis. The archived public source files in `web_sources.zip` are copies of public third-party webpages and PDFs retained as an evidence corpus for verification and reproducibility. They are not relicensed by this repository, and rights in those source materials remain with their original publishers.
 
-When creating the Zenodo record, describe `web_sources.zip` as an archived source corpus used for reproducibility, not as newly authored data.
+Repository and archive:
+
+- GitHub repository: https://github.com/kai-li-1994/compostable-packaging-operational-acceptance
+- Zenodo archive: https://doi.org/10.5281/zenodo.20650603
