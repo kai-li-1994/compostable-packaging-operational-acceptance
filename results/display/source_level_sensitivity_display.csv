@@ -1,0 +1,66 @@
+﻿indicator,source_level_group,category,n,denominator,share,share_percent
+Stated Organic-waste Treatment Route,All retained sources,Composting,71,184,0.3858695652173913,38.58695652173913
+Stated Organic-waste Treatment Route,All retained sources,Treatment route not stated,71,184,0.3858695652173913,38.58695652173913
+Stated Organic-waste Treatment Route,All retained sources,AD/biogas + composting,26,184,0.14130434782608695,14.130434782608695
+Stated Organic-waste Treatment Route,All retained sources,AD/biogas only,13,184,0.07065217391304347,7.065217391304348
+Stated Organic-waste Treatment Route,All retained sources,Other organic recovery,3,184,0.016304347826086956,1.6304347826086956
+Stated Organic-waste Treatment Route,National/supranational sources,Treatment route not stated,9,25,0.36,36.0
+Stated Organic-waste Treatment Route,National/supranational sources,Composting,8,25,0.32,32.0
+Stated Organic-waste Treatment Route,National/supranational sources,AD/biogas + composting,8,25,0.32,32.0
+Stated Organic-waste Treatment Route,Sources below national level,Composting,63,159,0.39622641509433965,39.62264150943396
+Stated Organic-waste Treatment Route,Sources below national level,Treatment route not stated,62,159,0.389937106918239,38.9937106918239
+Stated Organic-waste Treatment Route,Sources below national level,AD/biogas + composting,18,159,0.11320754716981132,11.320754716981131
+Stated Organic-waste Treatment Route,Sources below national level,AD/biogas only,13,159,0.08176100628930817,8.176100628930818
+Stated Organic-waste Treatment Route,Sources below national level,Other organic recovery,3,159,0.018867924528301886,1.8867924528301887
+Acceptance,All retained sources,Rejected,83,184,0.45108695652173914,45.108695652173914
+Acceptance,All retained sources,Collection liners only,70,184,0.3804347826086957,38.04347826086956
+Acceptance,All retained sources,No explicit compostable-packaging rule,11,184,0.059782608695652176,5.978260869565218
+Acceptance,All retained sources,Accepted broadly,10,184,0.05434782608695652,5.434782608695652
+Acceptance,All retained sources,No clear organics route,8,184,0.043478260869565216,4.3478260869565215
+Acceptance,All retained sources,Dedicated/controlled route only,2,184,0.010869565217391304,1.0869565217391304
+Acceptance,National/supranational sources,Rejected,11,25,0.44,44.0
+Acceptance,National/supranational sources,No explicit compostable-packaging rule,5,25,0.2,20.0
+Acceptance,National/supranational sources,Collection liners only,4,25,0.16,16.0
+Acceptance,National/supranational sources,No clear organics route,3,25,0.12,12.0
+Acceptance,National/supranational sources,Accepted broadly,2,25,0.08,8.0
+Acceptance,Sources below national level,Rejected,72,159,0.4528301886792453,45.283018867924525
+Acceptance,Sources below national level,Collection liners only,66,159,0.41509433962264153,41.509433962264154
+Acceptance,Sources below national level,Accepted broadly,8,159,0.050314465408805034,5.031446540880503
+Acceptance,Sources below national level,No explicit compostable-packaging rule,6,159,0.03773584905660377,3.7735849056603774
+Acceptance,Sources below national level,No clear organics route,5,159,0.031446540880503145,3.1446540880503147
+Acceptance,Sources below national level,Dedicated/controlled route only,2,159,0.012578616352201259,1.2578616352201257
+Certification and Approval Basis,All retained sources,Generic compostable/biodegradable wording only,66,184,0.358695652173913,35.869565217391305
+Certification and Approval Basis,All retained sources,No named standard/approval stated,43,184,0.23369565217391305,23.369565217391305
+Certification and Approval Basis,All retained sources,EN 13432 / OK compost / Seedling,37,184,0.20108695652173914,20.108695652173914
+Certification and Approval Basis,All retained sources,Government/programme approval,18,184,0.09782608695652174,9.782608695652174
+Certification and Approval Basis,All retained sources,BPI / ASTM / CMA,10,184,0.05434782608695652,5.434782608695652
+Certification and Approval Basis,All retained sources,OK compost HOME / NF T 51-800 / AS 5810,7,184,0.03804347826086957,3.8043478260869565
+Certification and Approval Basis,All retained sources,Country-specific standards/certifications (BNQ / AS 4736 / DINplus),3,184,0.016304347826086956,1.6304347826086956
+Certification and Approval Basis,National/supranational sources,Generic compostable/biodegradable wording only,8,25,0.32,32.0
+Certification and Approval Basis,National/supranational sources,No named standard/approval stated,7,25,0.28,28.0
+Certification and Approval Basis,National/supranational sources,EN 13432 / OK compost / Seedling,6,25,0.24,24.0
+Certification and Approval Basis,National/supranational sources,Government/programme approval,3,25,0.12,12.0
+Certification and Approval Basis,National/supranational sources,Country-specific standards/certifications (BNQ / AS 4736 / DINplus),1,25,0.04,4.0
+Certification and Approval Basis,Sources below national level,Generic compostable/biodegradable wording only,58,159,0.36477987421383645,36.477987421383645
+Certification and Approval Basis,Sources below national level,No named standard/approval stated,36,159,0.22641509433962265,22.641509433962263
+Certification and Approval Basis,Sources below national level,EN 13432 / OK compost / Seedling,31,159,0.1949685534591195,19.49685534591195
+Certification and Approval Basis,Sources below national level,Government/programme approval,15,159,0.09433962264150944,9.433962264150944
+Certification and Approval Basis,Sources below national level,BPI / ASTM / CMA,10,159,0.06289308176100629,6.289308176100629
+Certification and Approval Basis,Sources below national level,OK compost HOME / NF T 51-800 / AS 5810,7,159,0.0440251572327044,4.40251572327044
+Certification and Approval Basis,Sources below national level,Country-specific standards/certifications (BNQ / AS 4736 / DINplus),2,159,0.012578616352201259,1.2578616352201257
+Rejection Rationale,All retained sources,Compost/digestate quality or contamination concern,46,97,0.4742268041237113,47.422680412371136
+Rejection Rationale,All retained sources,No compatible organic-treatment route,16,97,0.16494845360824742,16.49484536082474
+Rejection Rationale,All retained sources,Slow degradation / residence-time mismatch,11,97,0.1134020618556701,11.34020618556701
+Rejection Rationale,All retained sources,AD/biogas incompatibility,9,97,0.09278350515463918,9.278350515463918
+Rejection Rationale,All retained sources,Explicit no-packaging / positive-list restriction,8,97,0.08247422680412371,8.24742268041237
+Rejection Rationale,All retained sources,Pre-treatment/screening/equipment constraint,7,97,0.07216494845360824,7.216494845360825
+Rejection Rationale,National/supranational sources,Compost/digestate quality or contamination concern,5,13,0.38461538461538464,38.46153846153846
+Rejection Rationale,National/supranational sources,No compatible organic-treatment route,4,13,0.3076923076923077,30.76923076923077
+Rejection Rationale,National/supranational sources,AD/biogas incompatibility,2,13,0.15384615384615385,15.384615384615385
+Rejection Rationale,National/supranational sources,Explicit no-packaging / positive-list restriction,2,13,0.15384615384615385,15.384615384615385
+Rejection Rationale,Sources below national level,Compost/digestate quality or contamination concern,41,84,0.4880952380952381,48.80952380952381
+Rejection Rationale,Sources below national level,No compatible organic-treatment route,12,84,0.14285714285714285,14.285714285714286
+Rejection Rationale,Sources below national level,Slow degradation / residence-time mismatch,11,84,0.13095238095238096,13.095238095238095
+Rejection Rationale,Sources below national level,Pre-treatment/screening/equipment constraint,7,84,0.08333333333333333,8.333333333333334
+Rejection Rationale,Sources below national level,AD/biogas incompatibility,7,84,0.08333333333333333,8.333333333333334
+Rejection Rationale,Sources below national level,Explicit no-packaging / positive-list restriction,6,84,0.07142857142857142,7.142857142857143

@@ -1,0 +1,20 @@
+﻿application_type,application_decision,n,denominator,share,share_percent,denominator_basis
+Flexible films/wraps/pouches,Accepted,3,20,0.15,15.0,Application-decision records for the same application group (source × application group).
+Flexible films/wraps/pouches,Rejected,17,20,0.85,85.0,Application-decision records for the same application group (source × application group).
+Food-service ware / takeaway packaging,Accepted,4,29,0.13793103448275862,13.793103448275861,Application-decision records for the same application group (source × application group).
+Food-service ware / takeaway packaging,Accepted with conditions,1,29,0.034482758620689655,3.4482758620689653,Application-decision records for the same application group (source × application group).
+Food-service ware / takeaway packaging,Rejected,24,29,0.8275862068965517,82.75862068965517,Application-decision records for the same application group (source × application group).
+Food-soiled paper / fibre packaging,Accepted,3,24,0.125,12.5,Application-decision records for the same application group (source × application group).
+Food-soiled paper / fibre packaging,Rejected,21,24,0.875,87.5,Application-decision records for the same application group (source × application group).
+Food-waste liners / collection bags,Accepted,43,94,0.4574468085106383,45.744680851063826,Application-decision records for the same application group (source × application group).
+Food-waste liners / collection bags,Accepted with conditions,21,94,0.22340425531914893,22.340425531914892,Application-decision records for the same application group (source × application group).
+Food-waste liners / collection bags,Rejected,29,94,0.30851063829787234,30.851063829787233,Application-decision records for the same application group (source × application group).
+Food-waste liners / collection bags,Unclear or not stated,1,94,0.010638297872340425,1.0638297872340425,Application-decision records for the same application group (source × application group).
+Generic compostable packaging / plastics,Accepted,8,74,0.10810810810810811,10.81081081081081,Application-decision records for the same application group (source × application group).
+Generic compostable packaging / plastics,Rejected,64,74,0.8648648648648649,86.48648648648648,Application-decision records for the same application group (source × application group).
+Generic compostable packaging / plastics,Unclear or not stated,2,74,0.02702702702702703,2.7027027027027026,Application-decision records for the same application group (source × application group).
+Shopping/produce bags,Accepted,2,6,0.3333333333333333,33.33333333333333,Application-decision records for the same application group (source × application group).
+Shopping/produce bags,Rejected,3,6,0.5,50.0,Application-decision records for the same application group (source × application group).
+Shopping/produce bags,Unclear or not stated,1,6,0.16666666666666666,16.666666666666664,Application-decision records for the same application group (source × application group).
+Tea/coffee preparation items,Accepted,5,48,0.10416666666666667,10.416666666666668,Application-decision records for the same application group (source × application group).
+Tea/coffee preparation items,Rejected,43,48,0.8958333333333334,89.58333333333334,Application-decision records for the same application group (source × application group).

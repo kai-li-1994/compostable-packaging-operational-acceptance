@@ -1,0 +1,8 @@
+﻿application_type,Certification accepted,Certification conditionally accepted,Certification rejected,Certification unclear or not stated,evidence_records,share__Certification accepted,share__Certification conditionally accepted,share__Certification rejected,share__Certification unclear or not stated,mean_certification_sufficiency_score,denominator_basis
+Food-waste liners / collection bags,19,12,15,1,47,0.40425531914893614,0.2553191489361702,0.3191489361702128,0.02127659574468085,0.9574468085106383,Certification-relevant source × application-group records for the same application group.
+Food-service ware / takeaway packaging,4,0,14,0,18,0.2222222222222222,0.0,0.7777777777777778,0.0,1.5555555555555556,Certification-relevant source × application-group records for the same application group.
+Tea/coffee preparation items,2,0,21,0,23,0.08695652173913043,0.0,0.9130434782608695,0.0,1.826086956521739,Certification-relevant source × application-group records for the same application group.
+Food-soiled paper / fibre packaging,1,0,12,0,13,0.07692307692307693,0.0,0.9230769230769231,0.0,1.8461538461538463,Certification-relevant source × application-group records for the same application group.
+Shopping/produce bags,2,0,2,1,5,0.4,0.0,0.4,0.2,1.4,Certification-relevant source × application-group records for the same application group.
+Flexible films/wraps/pouches,2,0,9,0,11,0.18181818181818182,0.0,0.8181818181818182,0.0,1.6363636363636365,Certification-relevant source × application-group records for the same application group.
+Generic compostable packaging / plastics,6,0,34,1,41,0.14634146341463414,0.0,0.8292682926829268,0.024390243902439025,1.7317073170731707,Certification-relevant source × application-group records for the same application group.
