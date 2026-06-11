@@ -1,0 +1,37 @@
+﻿country_order,country,cluster_label_raw,cluster_profile_label,n_sources,n_application_records
+1,Ireland,4.0,Broader compatibility,3,8
+2,Czechia,1.0,Restrictive,4,3
+3,South Korea,1.0,Restrictive,3,2
+4,Germany,1.0,Restrictive,9,6
+5,Iceland,1.0,Restrictive,2,6
+6,France,2.0,Liner-focused,6,13
+7,Belgium,2.0,Liner-focused,7,10
+8,Finland,2.0,Liner-focused,4,10
+9,Australia,2.0,Liner-focused,6,18
+10,United Kingdom,2.0,Liner-focused,11,28
+11,Canada,2.0,Liner-focused,13,42
+12,Luxembourg,2.0,Liner-focused,3,4
+13,Switzerland,2.0,Liner-focused,5,2
+14,Mexico,2.0,Liner-focused,2,2
+15,Chile,2.0,Liner-focused,4,1
+16,Portugal,2.0,Liner-focused,5,2
+17,New Zealand,3.0,Liner-focused,4,7
+18,United States,3.0,Liner-focused,13,42
+19,Italy,3.0,Liner-focused,9,22
+20,Norway,3.0,Liner-focused,6,4
+21,Spain,3.0,Liner-focused,6,5
+22,Denmark,3.0,Liner-focused,5,4
+23,Slovenia,3.0,Liner-focused,3,4
+24,Japan,3.0,Liner-focused,7,7
+25,Sweden,3.0,Liner-focused,6,3
+26,Netherlands,3.0,Liner-focused,11,27
+27,Greece,3.0,Liner-focused,4,6
+28,Poland,3.0,Liner-focused,5,4
+29,Slovakia,3.0,Liner-focused,3,2
+30,Austria,,Sparse evidence,4,0
+31,Costa Rica,,Sparse evidence,3,1
+32,Estonia,,Sparse evidence,3,0
+33,Hungary,,Sparse evidence,1,0
+34,Israel,,Sparse evidence,1,0
+35,Latvia,,Sparse evidence,1,0
+36,Lithuania,,Sparse evidence,2,0
