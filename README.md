@@ -1,10 +1,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20650603.svg)](https://doi.org/10.5281/zenodo.20650603)
 
-# Certified but not accepted: governing the mismatch between compostable packaging claims and organic-waste systems
+# Certified but not accepted: operational limits to compostable packaging in organic-waste systems
 
 This repository contains the archived evidence corpus, Python coding workflow, figure-generation scripts, generated analytical outputs, and Supplementary Data generation workflow for the manuscript:
 
-**Certified but not accepted: governing the mismatch between compostable packaging claims and organic-waste systems**
+**Certified but not accepted: operational limits to compostable packaging in organic-waste systems**
 
 ## Release and archive
 
